@@ -1,8 +1,6 @@
 # Project Ujian Tengah Semester Web Pemrograman 2
 
-
-## how to run web app using docker compose
-
+## Dockerize to run web app
 ### 1. Clone Repository
 
 ```bash
